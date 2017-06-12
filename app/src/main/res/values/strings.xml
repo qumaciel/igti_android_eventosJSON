@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Eventos</string>
+    <string name="title_evento_detail">Evento Detail</string>
+    <string name="evento_titulo">Título:</string>
+    <string name="evento_desc">Descrição:</string>
+    <string name="evento_data">Data:</string>
+
+</resources>
